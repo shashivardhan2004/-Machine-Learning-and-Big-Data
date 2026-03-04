@@ -9,7 +9,7 @@ and compared against scikit-learn single-node baselines.
 
 ## Dataset
 
-- Source: Hugging Face — gymprathap/Chicago-Crime-Dataset
+- Source: Hugging Face: https://huggingface.co/datasets/gymprathap/Chicago-Crime-Dataset
 - Original Source: Chicago Data Portal (https://data.cityofchicago.org)
 - Size: 8,104,658 rows, 22 columns, approximately 1.91GB
 - Target Classes: PROPERTY, VIOLENT, DRUG
